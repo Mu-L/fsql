@@ -2,6 +2,8 @@
 
 >Search through your filesystem with SQL-esque queries.
 
+<img width="400" height="400" alt="IMG_0422" src="https://github.com/user-attachments/assets/ff8922d0-75a8-476d-9cc0-0bc1945f1ad3" />
+
 ## Contents
 
 - [Demo](#demo)
